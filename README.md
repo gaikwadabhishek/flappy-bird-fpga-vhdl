@@ -27,7 +27,7 @@ To implement Flappy Bird on FPGA using VHDL programming language, the following 
 5. Program the FPGA board with the design.
 6. Play the game using a button configured on the FPGA.
 
-## Results
+## Results and Video 
 
 The Flappy Bird game was successfully implemented on the Altera Cyclone II FPGA board using VHDL programming language. The game works with a button configured on the FPGA, and the user can control the bird by pressing the button to make it flap its wings and navigate through the pipes.
 
