@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="1ae64b8e87f52c30770b"/>
+  </project>
+  <file_info>
+    <file device="EP2C20F484C7" path="vga.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="PLL:C2" name="C2">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME PLL HAS_SOPCINFO 1 GENERATION_ID 1678492684"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>
